@@ -13,3 +13,4 @@ eg = eg + eg.*eg.*eg;
 eg = eg .*( 1 +16*t.*exp(-6*t));
 
 note = eg;
+
